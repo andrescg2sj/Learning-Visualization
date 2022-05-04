@@ -3,7 +3,9 @@ Some examples and resources for visualizing data.
 
 These examples were made using Python 3.8 and Plotly 5.7.
 
-# Install Python
+# Setup
+
+## Installing Python
 
 Note: On macOS and Linux systems you may already have some version of Python installed.
 
@@ -15,7 +17,7 @@ $ python
 
 See also: https://www.python.org/downloads/
 
-## Install plotly
+## Installing Plotly
 
 In a terminal, type:
 
