@@ -67,9 +67,9 @@ https://newbedev.com/python-plotly-choropleth-map-us-states-code-example
 
 # References
 
-https://plotly.com/python/
+Plotly examples: https://plotly.com/python/
 
-
+Python Tutorial: https://www.w3schools.com/python/default.asp
 
 
 
