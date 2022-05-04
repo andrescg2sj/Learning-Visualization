@@ -5,7 +5,7 @@ These examples were made using Python 3.8 and Plotly 5.7.
 
 # Install Python
 
-Note: On macOS and Linux systes you may already have some version of Python installed.
+Note: On macOS and Linux systems you may already have some version of Python installed.
 
 To check, open a terminal and type:
 
@@ -35,7 +35,7 @@ See also: https://plotly.com/python/getting-started/
 
 ## On Mac / Linux
 
-Download the files to your home folder (e.g. `/home/username/`).
+Download and extract the files to your user folder (e.g. `/home/username/`).
 
 ### Example 1
 
@@ -55,7 +55,7 @@ $ python simple_plot_map.py
 
 This webpage shows another intuitive example of creating colored maps.
 
-You need to install Pandas first:
+You need to install Pandas to use it:
 
 ```
 $ python -m pip install pandas
